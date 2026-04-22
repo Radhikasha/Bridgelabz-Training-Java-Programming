@@ -1,12 +1,4 @@
 
-/*Create a program to find the youngest friends among 3 Amar, Akbar, and Anthony based on
-their ages and the tallest among the friends based on their heights
-Hint =>
-a. Take user input for age and height for the 3 friends and store it in two arrays each to
-store the values for age and height of the 3 friends
-b. Loop through the array and find the youngest of the 3 friends and the tallest of the 3
-friends
-c. Finally display the youngest and tallest of the 3 friends */
 import java.util.*;
 
 public class maximum {

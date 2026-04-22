@@ -12,7 +12,7 @@ public class remainder {
         int rem = a % b;
         int quotient = a / b;
         System.out.println("Remainder: " + rem);
-        System.out.println(quotient);
+        System.out.println("Quotient: " + quotient);
     }
 
 }

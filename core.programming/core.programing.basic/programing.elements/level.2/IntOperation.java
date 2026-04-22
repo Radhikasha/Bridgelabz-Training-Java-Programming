@@ -10,7 +10,7 @@ public class IntOperation {
         int ans2 = a * b + c;
         int ans3 = c + a / b;
         int ans4 = a % b + c;
-        System.out.print("The results of Int Operations are" + ans1 + "," + ans2 + "," + ans3 + "," + ans4);
+        System.out.print("The results of Int Operations are " + ans1 + "," + ans2 + "," + ans3 + "," + ans4);
     }
 
 }

@@ -20,6 +20,6 @@ public class evenodd {
         System.out.println();
         for (int i = 0; i < odd.length; i++) {
             System.out.print(odd[i] + " ");
-        }
+        
     }
 }
