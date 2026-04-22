@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class Natural_number {
