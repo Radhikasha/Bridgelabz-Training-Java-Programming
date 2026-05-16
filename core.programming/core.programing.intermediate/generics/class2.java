@@ -19,8 +19,13 @@ public class class2 {
         user<String> s = new user<String>();
 
         i.add(12);
-        s.add("aashu");
         System.out.println(i.get());
+        i.add(new Integer(10));
+        System.out.println(i.get());
+        s.add(new String("muni"));
+        System.out.println(s.get());
+        s.add("aashu");
+        
         System.out.println(s.get());
 
     }
