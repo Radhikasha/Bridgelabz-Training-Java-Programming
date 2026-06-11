@@ -1,3 +1,0 @@
-ID,Name,Age
-101,Radhika,22
-102,Rahul,23
