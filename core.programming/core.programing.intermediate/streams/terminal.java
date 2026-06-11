@@ -33,6 +33,7 @@ System.out.println(ans);
       System.out.println(b3);
 
       //reduce
+      
       System.out.println(list.stream().reduce((a,c)-> a.length() > c.length() ? a : c));
 
     }

@@ -1,5 +1,5 @@
-import java.util.*;
-import java.util.stream.*;
+import java.util.Arrays;
+import java.util.List;
 
 
 public class parallel{
@@ -20,3 +20,4 @@ list.parallelStream().forEach(n -> System.out.println(n));
 
     }
 }
+
